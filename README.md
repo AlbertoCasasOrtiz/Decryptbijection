@@ -7,4 +7,6 @@ The original author of this code is Alberto Casas Ortiz, Spain.
 If you are going to use this code, please conctact me before doing it through this
 github account, and I will answer any doubt.
 
+It was an obligatory activity in the subject declarative programming in Universidad Complutense de Madrid.
+
 Thank you.
